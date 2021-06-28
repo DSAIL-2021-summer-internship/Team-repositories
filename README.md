@@ -7,21 +7,24 @@ About Laboratory: http://dsail.kaist.ac.kr/
 
 ## Tentative Schedule
 ### Basic recommender system and Graph Neural Network
-Explicit feedback
+#### Explicit feedback
 Matrix factorization 기반
 * [Netflix](https://dl.acm.org/doi/pdf/10.1145/1401890.1401944)
 * [Netflix2](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
 * [PMF](https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)  
 
-Implicit feedback  
+#### Implicit feedback  
 Matrix factorization 기반  
 * Point-wise method: [OCCF](http://yifanhu.net/PUB/cf.pdf)  
-* Pair-wise method: * [BPR] (https://arxiv.org/pdf/1205.2618.pdf)  
+* Pair-wise method: [BPR](https://arxiv.org/pdf/1205.2618.pdf)  
+
 Metric learning 기반  
 * [CML](http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)  
+
 Neural network 기반  
 * [NCF](https://arxiv.org/pdf/1708.05031.pdf)  
-Side information (Social network)  
+
+Adding Side information (Social network)  
 * [SoRec](http://web.cs.ucla.edu/~yzsun/classes/2014Spring_CS7280/Papers/Recommendation/paper_cikm08_sorec_hao.pdf)  
 * [SoReg](https://dennyzhou.github.io/papers/RSR.pdf)  
 ![image](https://user-images.githubusercontent.com/40378824/123631053-46ff0200-d851-11eb-816c-fe473d95ce00.png)  
