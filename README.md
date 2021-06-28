@@ -1,5 +1,3 @@
-# Team-repositories
-
 # **Kaist Summer Program**  
 
 ## Data Science and Artificial Intelligence Laboratory (DSAIL)
