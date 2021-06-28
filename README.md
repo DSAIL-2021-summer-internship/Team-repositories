@@ -1,6 +1,5 @@
 # **Kaist Summer Program**  
 <img src="https://user-images.githubusercontent.com/40378824/123638384-166f9600-d85a-11eb-9cdd-ef97744749ae.png" alt="drawing" width="80%"/>
-![image](https://user-images.githubusercontent.com/40378824/123638384-166f9600-d85a-11eb-9cdd-ef97744749ae.png)
 
 ## Data Science and Artificial Intelligence Laboratory (DSAIL)
 About Laboratory: http://dsail.kaist.ac.kr/
