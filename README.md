@@ -1,4 +1,5 @@
 # **Kaist Summer Program**  
+![image](https://user-images.githubusercontent.com/40378824/123638384-166f9600-d85a-11eb-9cdd-ef97744749ae.png)
 
 ## Data Science and Artificial Intelligence Laboratory (DSAIL)
 About Laboratory: http://dsail.kaist.ac.kr/
@@ -35,7 +36,12 @@ About Laboratory: http://dsail.kaist.ac.kr/
 
 
 ### Participate to projects
-![image](https://user-images.githubusercontent.com/40378824/123631988-5cc0f700-d852-11eb-9257-404dfe0a2f22.png)
+- On-going projects
+  - 인공지능 기반 보험금 지급 예측
+  - 검색 시스템을 위한 지식그래프 구축
+  - 소재의 화학 구조로부터 물성 예측
+  - 상품분류체게 자동 구축
+- 각 프로젝트당 2명 배정 (담당 대학원생과 함께 진행)
 
 
 ## Team Introduction  
