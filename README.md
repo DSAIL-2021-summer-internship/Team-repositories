@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/40378824/123638384-166f9600-d85a-11eb-9cdd-ef97744749ae.png" alt="drawing" width="80%"/>
 
 ## Data Science and Artificial Intelligence Laboratory (DSAIL)
-- [Official Laboratory Homepage](http://dsail.kaist.ac.kr/)
-- [Introduction to the laboratory](https://www.youtube.com/watch?v=3Nz19Kln-yE)
-- [What we are interested in](https://dsail.kaist.ac.kr/files/research.pdf)
+- [Official Laboratory Homepage (Website)](http://dsail.kaist.ac.kr/)
+- [Introduction to the laboratory (YouTube)](https://www.youtube.com/watch?v=3Nz19Kln-yE)
+- [What we are interested in (Research PDF)](https://dsail.kaist.ac.kr/files/research.pdf)
 
 
 ## Tentative Schedule
