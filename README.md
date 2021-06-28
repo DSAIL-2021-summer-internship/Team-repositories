@@ -12,6 +12,7 @@ Matrix factorization 기반
 * [Netflix](https://dl.acm.org/doi/pdf/10.1145/1401890.1401944)
 * [Netflix2](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
 * [PMF](https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)  
+
 Implicit feedback  
 Matrix factorization 기반  
 * Point-wise method: [OCCF](http://yifanhu.net/PUB/cf.pdf)  
