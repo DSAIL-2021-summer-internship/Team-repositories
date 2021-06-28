@@ -13,6 +13,7 @@ About Laboratory: http://dsail.kaist.ac.kr/
 ![image](https://user-images.githubusercontent.com/40378824/123631908-4155ec00-d852-11eb-9fa4-c29ef6189273.png)
 
 ### Participate to projects
+![image](https://user-images.githubusercontent.com/40378824/123631988-5cc0f700-d852-11eb-9257-404dfe0a2f22.png)
 
 
 ## Team Introduction  
