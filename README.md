@@ -6,10 +6,6 @@
 - [Introduction to the laboratory (YouTube)](https://www.youtube.com/watch?v=3Nz19Kln-yE)
 - [What we are interested in (Research PDF)](https://dsail.kaist.ac.kr/files/research.pdf)
 
-<img src="https://user-images.githubusercontent.com/40378824/123640980-b0d0d900-d85c-11eb-927f-12dd7ce9770a.png" alt="drawing" width="80%"/>
-
-
-
 ## Tentative Schedule
 ### Basic recommender system and Graph Neural Network
 | Year | Paper | Short |
@@ -40,7 +36,6 @@
 | 2017 | [Inductive Representation Learning on Large Graphs](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)| GraphSAGE |
 | 2013 | [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)| TransE |
 
-
 ### Participate to projects
 - On-going projects
   - 인공지능 기반 보험금 지급 예측
@@ -49,8 +44,7 @@
   - 상품분류체게 자동 구축
 - 각 프로젝트당 2명 배정 (담당 대학원생과 함께 진행)
 
-
-## Team Introduction  
+## Team Introduction (Lab Interns)  
 ### 김정훈
 * [Junghoon Repository](https://github.com/jhkim611/2021_summer_internship)  
 
