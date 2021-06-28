@@ -6,6 +6,9 @@
 - [Introduction to the laboratory (YouTube)](https://www.youtube.com/watch?v=3Nz19Kln-yE)
 - [What we are interested in (Research PDF)](https://dsail.kaist.ac.kr/files/research.pdf)
 
+<img src="https://user-images.githubusercontent.com/40378824/123640980-b0d0d900-d85c-11eb-927f-12dd7ce9770a.png" alt="drawing" width="80%"/>
+
+
 
 ## Tentative Schedule
 ### Basic recommender system and Graph Neural Network
