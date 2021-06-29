@@ -58,10 +58,10 @@
 * [Hanbit Repository](https://github.com/hanbitlee/summer_2021)  
 
 ### 이재영  
-* [jaeyeong Repository](https://github.com/JaeyeongLee1/DSAIL_summer_internship)  
+* [Jaeyeong Repository](https://github.com/JaeyeongLee1/DSAIL_summer_internship)  
 
 ### 김수진  
 * [Sujin Repository](https://github.com/sujin53/2021_Summer_Internship)    
 
 ### 김성원  
-* [sungwon Repository](https://github.com/kpiswon/2021_DSAIL_summer_internship)  
+* [Sungwon Repository](https://github.com/kpiswon/2021_DSAIL_summer_internship)  
