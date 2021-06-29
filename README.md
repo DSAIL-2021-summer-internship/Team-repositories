@@ -65,3 +65,6 @@
 
 ### 김성원  
 * [Sungwon Repository](https://github.com/kpiswon/2021_DSAIL_summer_internship)  
+
+### 김효준  
+* [Hyojun Repository](https://github.com/rlagywns0213/2021_Summer_Internship)  
