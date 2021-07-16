@@ -44,7 +44,10 @@
   - 상품분류체게 자동 구축
 - 각 프로젝트당 2명 배정 (담당 대학원생과 함께 진행)
 
-## Team Introduction (Lab Interns)  
+## Team Introduction (M.S. Student & Lab Interns)  
+### 인연준
+* [Yeonjun Repository](https://github.com/YeonJun-IN/2021_DSAIL_summer_internship)
+*  
 ### 김정훈
 * [Junghoon Repository](https://github.com/jhkim611/2021_summer_internship)  
 
