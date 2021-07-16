@@ -47,7 +47,7 @@
 ## Team Introduction (M.S. Student & Lab Interns)  
 ### 인연준
 * [Yeonjun Repository](https://github.com/YeonJun-IN/2021_DSAIL_summer_internship)
-*  
+
 ### 김정훈
 * [Junghoon Repository](https://github.com/jhkim611/2021_summer_internship)  
 
